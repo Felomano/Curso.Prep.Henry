@@ -1,0 +1,5 @@
+* Variables "significan entidades o cosas que varian es decir van cambiando en el tiempo"
+* Strings "es un conjunto de letras y numeros"
+* Funciones (argumentos, `return`) "es un conjunto de variables que realizan una tarea"
+* Declaraciones `if` "es un comando que permite determinar una situación de ocurrencia de algo con una condición"
+* Valores booleanos (`true`, `false`)  " significa que el resultado de algo puede ser verdadero o falso solo dos valores"
