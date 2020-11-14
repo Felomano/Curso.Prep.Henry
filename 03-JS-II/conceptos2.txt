@@ -1,0 +1,12 @@
+* `for`,
+// significa volver a repetir un procedimiento(bucle) hasta que se cumpla alguna condición
+
+* `&&`,
+// significa en logica el "y" se tiene que dar esto "y" esto otro para que muestre un resultado
+
+`||`,
+// significa en logica el "o" se tiene que dar esto "o" esto otro para mostrar un resultado
+
+`!`
+// significa decir lo contrario a algo por ejemplo === es igual
+!=== significa que no es igual
